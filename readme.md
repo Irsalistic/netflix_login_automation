@@ -74,10 +74,9 @@ Results are saved to `login_results.txt` in the format:
 - `check_login()`: Performs login attempts
 - `main()`: Orchestrates the testing process
 
-<span style="color: red">**Note:**
-- Always edit read_credential function according to the structure of your credentials file
-## Contributing
+<span style="color: red">**Note:** </span>  Always edit read_credential function according to the structure of your credentials file
 
+## Contributing
 Feel free to submit issues and enhancement requests. Please follow responsible security testing practices.
 
 ## License
